@@ -24,3 +24,4 @@ This project analyzes Facebook Ads campaign data using Power BI to track perform
 ## 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
 https://github.com/Mehween-fatima/facebook-ads-powerbi-dashboard
+https://github.com/Mehween-fatima/facebook-ads-powerbi-dashboard/blob/main/Recording%202025-12-27%20074543%20(1).mp4
