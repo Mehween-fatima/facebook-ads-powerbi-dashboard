@@ -17,9 +17,10 @@ This project analyzes Facebook Ads campaign data using Power BI to track perform
 - High ROI campaigns indicate efficient budget allocation
 
 ## 🛠 Tools Used
-- Power BI
+- Power BHI 
 - DAX
 - Excel
 
 ## 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
+https://github.com/Mehween-fatima/facebook-ads-powerbi-dashboard
